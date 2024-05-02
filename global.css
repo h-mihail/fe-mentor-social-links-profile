@@ -29,10 +29,10 @@ main {
 
   width: 350px;
   padding: 32px;
+  row-gap: 12px;
+  text-align: center;
   border-radius: 20px;
   background-color: hsl(0, 0%, 12%);
-  text-align: center;
-  row-gap: 12px;
 }
 
 .card-image {
